@@ -48,7 +48,6 @@ std::vector<std::string> TestFileParser::getContents(void)
 {
     std::ifstream infs("Test.txt");
     std::string line;
-    //std::vector<std::string>svec;
     while (getline(infs, line)) {
         parsedContainer.push_back(line);
     }
