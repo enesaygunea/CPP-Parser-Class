@@ -1,5 +1,5 @@
 # C++-Parser-Class
-Interview question parser class in C++
+Parser class in C++
 
 **********************************************
 sample output is as below;
